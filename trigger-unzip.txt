@@ -1,0 +1,3 @@
+Triggering unzip workflow: commit created by GitHub Copilot Chat Assistant
+
+This commit intentionally triggers the unzip-rename workflow to extract AegisScan-PlayReady-v5.1.1.zip into the repository root with rename-on-conflict behavior. User requested extraction.
