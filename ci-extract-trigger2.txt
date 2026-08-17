@@ -1,0 +1,3 @@
+Trigger extract-zip workflow
+
+This file triggers the extract workflow to unzip AegisScan-PlayReady-v5.1.1.zip at the repository root and commit the extracted files to branch extract/aegisscan-v5.1.1.
