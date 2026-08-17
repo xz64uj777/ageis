@@ -1,3 +1,5 @@
-Triggering unzip workflow: commit created by GitHub Copilot Chat Assistant
+Triggering unzip workflow: rerun created by GitHub Copilot Chat Assistant
 
-This commit intentionally triggers the unzip-rename workflow to extract AegisScan-PlayReady-v5.1.1.zip into the repository root with rename-on-conflict behavior. User requested extraction.
+This commit re-triggers the unzip-rename workflow to extract AegisScan-PlayReady-v5.1.1.zip into the repository root with rename-on-conflict behavior (ZIP will be left in place). User requested "Push now".
+
+Timestamp: 2026-08-17T04:30:00Z
