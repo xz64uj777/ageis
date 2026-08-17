@@ -1,0 +1,3 @@
+Trigger Android CI run
+
+This file was added to trigger the Android CI workflow (unit tests, lint, assembleDebug, bundleRelease) so you can inspect the first Actions run and tell me what to change next.
